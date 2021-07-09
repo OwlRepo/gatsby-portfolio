@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://simple/./src/pages/stack.js"],"names":["Stack"],"mappings":"gKAEe,SAASA,IACpB,OACI","file":"component---src-pages-stack-js-efe77325abeef84a6f36.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function Stack() {\r\n    return (\r\n        <div>\r\n            TECH STACK\r\n        </div>\r\n    )\r\n}\r\n"],"sourceRoot":""}

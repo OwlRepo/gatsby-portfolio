@@ -1,0 +1,2 @@
+(self.webpackChunksimple=self.webpackChunksimple||[]).push([[682],{5518:function(e,n,u){"use strict";u.r(n),u.d(n,{default:function(){return l}});var t=u(7294);function l(){return t.createElement("div",null,"ABOUT")}}}]);
+//# sourceMappingURL=component---src-pages-about-js-057e16f5713dc6317fcf.js.map

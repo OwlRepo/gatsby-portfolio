@@ -1,0 +1,2 @@
+(self.webpackChunksimple=self.webpackChunksimple||[]).push([[499],{6692:function(e,n,u){"use strict";u.r(n),u.d(n,{default:function(){return l}});var t=u(7294);function l(){return t.createElement("div",null,"TECH STACK")}}}]);
+//# sourceMappingURL=component---src-pages-stack-js-efe77325abeef84a6f36.js.map
